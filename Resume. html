@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+ <head>
+
+<title></title>
+</head>
+<body>
+<div id="header">
+<p id="name">Aayushi Gupta</p>
+         <a href="mailto:aayushigupta475@gmail.com" target="_blank"><p id="email">aayushigupta475@gmail.com</p></a>
+         <p id="contact">+91 7400840229</p>
+     </div>
+     <div class="left">
+     </div>
+     <div class="right">
+            <h3>CV Highlights</h3>
+            <p>
+            <ul> <li>Learnt - C, C++, Python,Core java, HTML, SQL</li>
+                <li>An independent, dedicated, efficient person. These attributes are proved through the series of courses I have taken or I am taking as of now independently through online platforms.</li>
+                <li>Good Communication Skills, Presentation Skills, attitude towards leadership, authorisation and delegation, conflict resolution and negotiation and a very good team worker.</li></ul>
+            </p><h3> Experience - Fresher </h3><p id="job-responsibilities">Job Responsbilities</p>
+            <p>
+            <ul>
+                <li>Answer customer queries over email / ticketing system</li>
+                <li>Interact with our engineering team to get software issues and bugs resolved</li>
+                <li>Occasionally interact with customers over Skype or telephone</li>
+                <li>Contribute ideas to the team on how customers can be delighted</li></ul>
+            </p>
+<h3>Educational Qualifications</h3>
+            <table>
+                <tr id="heading">
+                    <td>Qualification</td>
+                    <td>Board / University</td>
+                    <td>Percentage / CGPA</td>
+                    <td>Passing Year</td>
+                </tr>
+                <tr>
+                    <td>B.Tech in Computer Science Engineering</td>
+                    <td>RGPV University</td>
+                    <td>7.78</td>
+                    <td>2021</td>
+                </tr>
+                <tr>
+                    <td>Intermediate</td>
+                    <td>MP Board</td>
+                    <td>67.4%</td>
+                    <td>2017</td>
+                </tr>
+                <tr>
+                    <td>High School</td>
+                    <td>CBSE Board</td>
+                    <td>6.6</td>
+                    <td>2015</td>
+                </tr>
+            </table>
+            <h3>Independent Courses</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">HTML – Web Fundamentals</span></li>
+                <li>
+                <span id="course-name">Python – Fundamentals and Dynamic Programming </span></li>
+                <li>
+                <span id="course-name"> Core Java – Programming ,Build Games </span></li> <h3>Management Skills</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Positive Attitude and Strong Problem - Solving</span> </li>
+                <li>
+                <span id="course-name">Ability to work both independently and in groups</span></li> <li>
+                <span id="course-name">Effective Time Management and dedication towards work</span></li> <li>
+                <span id="course-name">Enthusiastic and can produce results under deadline constraints</span></li>
+                <li>
+                <span id="course-name">Good communication Skills and Analytical skills</span></li></ul>
+            </p><h3>Personal Information:</h3>
+            <p>
+            <ul>
+                <li>
+                A young, determined hard and smart working person. I believe in task based roles and complete ownership of work.
+                <li>
+                <span id="course-name">Languages Known:</span>English, Hindi</li>
+                <li>
+                <span id="course-name">Hobbies:</span>I love playing Chess, swimming, listening music, surfing Internet</li> </ul>
+            </p> <h3>Other Information</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Expected Salary:</span>As per company standards</li>
+                <li>
+                <span id="course-name">Area of Interest:</span>Software Development, Programming, Start-ups, Coding, App Development, Technical Support</li>
+                <li>
+                <span id="course-name">Joining Date:</span>Immediate</li></ul>
+            </p>
+            <h3>Declaration</h3>
+            <p>
+            I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
+     </div>
+     <div id="footer"></div>
+    </body>
+</html>
